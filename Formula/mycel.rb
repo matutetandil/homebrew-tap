@@ -1,8 +1,8 @@
 class Mycel < Formula
   desc "Declarative microservice runtime: describe what connects to what, and it runs the service"
   homepage "https://github.com/matutetandil/mycel"
-  url "https://github.com/matutetandil/mycel/archive/refs/tags/v2.17.1.tar.gz"
-  sha256 "a97c9ff93460c21d693189bd34ec2240dcebd9973419a5de2b1c87a947096648"
+  url "https://github.com/matutetandil/mycel/archive/refs/tags/v2.18.0.tar.gz"
+  sha256 "e692777f14ea62ce76f25cd7ac1fa011f331a8bc0371445a0898cb2d61c5dcd7"
   license "MIT"
   head "https://github.com/matutetandil/mycel.git", branch: "main"
 
